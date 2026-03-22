@@ -118,6 +118,6 @@ analyse-des-ventes/
 
 ## Contact
 
-**Mouna Echemmakh**
+**mn3labs**
 - GitHub : [@mn3labs](https://github.com/mn3labs)
-- Email : ilham.echemmakh@gmail.com
+- Email : mn3labs@gmail.com
